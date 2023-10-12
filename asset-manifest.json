@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/The-Vanue/static/css/main.60a62e80.css",
+    "main.js": "/The-Vanue/static/js/main.f552167f.js",
+    "static/media/slide_one.jpg": "/The-Vanue/static/media/slide_one.c0549cdcaaa5a3cfc99a.jpg",
+    "static/media/slide_three.jpg": "/The-Vanue/static/media/slide_three.8958803436ecc3409fdb.jpg",
+    "static/media/slide_two.jpg": "/The-Vanue/static/media/slide_two.13a6beb965b95b59cf5f.jpg",
+    "static/media/slick.svg": "/The-Vanue/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/The-Vanue/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/The-Vanue/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/The-Vanue/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/The-Vanue/index.html",
+    "main.60a62e80.css.map": "/The-Vanue/static/css/main.60a62e80.css.map",
+    "main.f552167f.js.map": "/The-Vanue/static/js/main.f552167f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a62e80.css",
+    "static/js/main.f552167f.js"
+  ]
+}
